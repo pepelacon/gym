@@ -3,9 +3,9 @@ import { useNavigate } from 'react-router-dom'
 import Button from '../../ui/button/Button'
 
 import Layout from '../../layout/Layout'
+import Statistics from '../profile/statistics/Statistics'
 
 import styles from './Home.module.scss'
-import Statistics from '../profile/statistics/Statistics'
 
 function Home() {
 	const navigate = useNavigate()

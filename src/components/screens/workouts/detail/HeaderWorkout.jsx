@@ -1,6 +1,7 @@
 import cn from 'clsx'
-import Header from '../../../layout/header/Header'
+
 import stylesLayout from '../../../layout/Layout.module.scss'
+import Header from '../../../layout/header/Header'
 
 import styles from './Workout.module.scss'
 
